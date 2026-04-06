@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.2](https://github.com/fmalcher/releasetest/compare/v0.2.1...v0.2.2) (2026-04-06)
+
+
+### Bug Fixes
+
+* use Node 24 for npm OIDC trusted publishing support ([52aa8cc](https://github.com/fmalcher/releasetest/commit/52aa8cc1180528323cada12904d6396bb4b96e96))
+
 ## [0.2.1](https://github.com/fmalcher/releasetest/compare/v0.2.0...v0.2.1) (2026-04-06)
 
 
