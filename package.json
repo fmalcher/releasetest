@@ -4,6 +4,9 @@
   "description": "Test package for release-please + npm provenance workflow",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "build": "node build.mjs"
+  },
   "publishConfig": {
     "access": "public"
   }
