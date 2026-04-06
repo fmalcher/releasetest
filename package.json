@@ -4,6 +4,10 @@
   "description": "Test package for release-please + npm provenance workflow",
   "main": "index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fmalcher/releasetest"
+  },
   "scripts": {
     "build": "node build.mjs"
   },
