@@ -1,6 +1,6 @@
 {
   "name": "@fmalcher/releasetest",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Test package for release-please + npm provenance workflow",
   "main": "index.js",
   "license": "MIT",
