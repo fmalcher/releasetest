@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.0.0](https://github.com/fmalcher/releasetest/compare/v0.2.3...v1.0.0) (2026-04-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* 
+* rename function to `helloworld`
+
+### Features
+
+* add exported const `hello` ([335034e](https://github.com/fmalcher/releasetest/commit/335034e209ab24e79f70d29acd2dc6f3dac838d9))
+* change text ([8c9324f](https://github.com/fmalcher/releasetest/commit/8c9324f1f9785eab57125ae4fa649e783f94a068))
+* rename function to `helloworld` ([d139535](https://github.com/fmalcher/releasetest/commit/d139535bf2ff0a47a290be9720aa9ac62f8a361b))
+
 ## [0.2.3](https://github.com/fmalcher/releasetest/compare/v0.2.2...v0.2.3) (2026-04-06)
 
 
