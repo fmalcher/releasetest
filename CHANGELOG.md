@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3](https://github.com/fmalcher/releasetest/compare/v0.2.2...v0.2.3) (2026-04-06)
+
+
+### Bug Fixes
+
+* add repository field for npm provenance verification ([70ce987](https://github.com/fmalcher/releasetest/commit/70ce9873185c3f8a520b2a9df9386b7bfc37daea))
+
 ## [0.2.2](https://github.com/fmalcher/releasetest/compare/v0.2.1...v0.2.2) (2026-04-06)
 
 
