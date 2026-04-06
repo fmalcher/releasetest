@@ -1,1 +1,3 @@
-export const hello = () => 'Hello from releasetest! Thi is a test.';
+export const hello = () => {
+    return 'Hello from releasetest! Thi is a test.';
+}
