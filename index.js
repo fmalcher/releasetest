@@ -1,4 +1,4 @@
-export const helloworld = () => {
+export const greeting = () => {
     return 'Hello from releasetest! Thi is a test.';
 }
 
