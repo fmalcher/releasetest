@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/fmalcher/releasetest/compare/v1.0.0...v2.0.0) (2026-04-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* The main function was renamed to `greeting`.
+
+### Features
+
+* rename fn to greeting ([5c5e971](https://github.com/fmalcher/releasetest/commit/5c5e9712833e6a146da67187010cc8c0e8469531))
+
 ## [1.0.0](https://github.com/fmalcher/releasetest/compare/v0.2.3...v1.0.0) (2026-04-06)
 
 
