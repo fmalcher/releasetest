@@ -5,8 +5,8 @@
 
 ### ⚠ BREAKING CHANGES
 
-* 
 * rename function to `helloworld`
+* add exported const `hello`
 
 ### Features
 
