@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/fmalcher/releasetest/compare/v0.2.0...v0.2.1) (2026-04-06)
+
+
+### Bug Fixes
+
+* upgrade npm CLI for OIDC trusted publishing support ([6c3dad3](https://github.com/fmalcher/releasetest/commit/6c3dad370d1d4e86ec1651e32b95c4245a15004c))
+
 ## [0.2.0](https://github.com/fmalcher/releasetest/compare/v0.1.1...v0.2.0) (2026-04-06)
 
 
