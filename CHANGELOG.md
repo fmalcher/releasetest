@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/fmalcher/releasetest/compare/v2.1.0...v2.2.0) (2026-04-07)
+
+
+### Features
+
+* change foo value ([cd77f24](https://github.com/fmalcher/releasetest/commit/cd77f24804e052074e251887f008352f94d4e3c5))
+
 ## [2.1.0](https://github.com/fmalcher/releasetest/compare/v2.0.0...v2.1.0) (2026-04-07)
 
 
