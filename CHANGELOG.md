@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/fmalcher/releasetest/compare/v2.0.0...v2.1.0) (2026-04-07)
+
+
+### Features
+
+* add foo ([d393468](https://github.com/fmalcher/releasetest/commit/d3934685daa234c587f6932ac4358a00e930b9b6))
+
 ## [2.0.0](https://github.com/fmalcher/releasetest/compare/v1.0.0...v2.0.0) (2026-04-06)
 
 
