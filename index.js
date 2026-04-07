@@ -3,3 +3,4 @@ export const greeting = () => {
 }
 
 export const hello = 'hello';
+export const foo = 'bar';
